@@ -9,7 +9,7 @@ export default function Header() {
           <Link href="/" passHref>
             <h2 className=" cursor-pointer">Static Blog</h2>
           </Link>
-          <Link href="https://github.com/dhiraj512/next-mdx-static-blog">
+          <Link href="https://github.com/dhiraj512/next-md-static-blog">
             <a target="_blank">
               <img className="h-6 w-6 " src="/github.svg" alt="" />
             </a>
